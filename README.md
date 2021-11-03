@@ -13,7 +13,7 @@
     <ul>
       <li>https://gobindakeep.netlify.app/</li>
     </ul>
-  <li>Gobinda Dhabe</li>
+  <li>Gobinda Dhaba</li>
   <ul>
       <li>https://gobindadhaba.netlify.app/</li>
     </ul>
