@@ -8,7 +8,8 @@
   <br>
   
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=knightryder098.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=knightryder098&theme=midnight-purple&show_icons=true)
 
 
