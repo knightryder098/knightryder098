@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/_gl14" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/gobin098" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.codechef.com/users/gl14" target="_blank"><img src="https://img.shields.io/badge/codechef-%E2%8C%A8%EF%B8%8F-yellow" alt="codechef"></a>
- <a href="https://codeforces.com/profile/knightryder098" target="_blank"><img src="https://img.shields.io/badge/codeforces-%E2%8C%A8%EF%B8%8F-red" alt="codeforces"></a>
+ <a href="https://codeforces.com/profile/knightryder88" target="_blank"><img src="https://img.shields.io/badge/codeforces-%E2%8C%A8%EF%B8%8F-red" alt="codeforces"></a>
   
 </div>
 
