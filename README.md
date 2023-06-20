@@ -84,7 +84,7 @@
 
  <h3 align='center'>
   
-![GitHub metrics](https://metrics.lecoq.io/knightryder098) 
+<!-- ![GitHub metrics](https://metrics.lecoq.io/knightryder098)-->
 </h3>
 
   <h3 align='center'>
